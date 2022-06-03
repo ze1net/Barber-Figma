@@ -1,1 +1,1 @@
-# Barber-figma
+# Figma
